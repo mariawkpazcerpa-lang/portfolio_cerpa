@@ -24,7 +24,7 @@ header {
     background-size: cover;
   background-position: center;
   position: relative; /* Esencial para posicionar el overlay */
-  width: 100%;
+  width: 100vw;
   height: 400px; /* Ajusta la altura según tus necesidades */
   display: flex;
   justify-content: center;
@@ -117,4 +117,5 @@ footer {
     line-height: 1.6;
     background-color: black;
     color: seashell;
+
 }
