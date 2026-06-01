@@ -19,10 +19,8 @@ Los lenguajes principales empleados son HTML y CSS.
 
 ## 🛠 Tecnologías  
 - HTML5  
-- CSS3  
-- Diseño responsive (idealmente en futuras versiones)  
+- CSS3   
 - Buenas prácticas de accesibilidad y semántica web  
-- …y en próximas iteraciones: JavaScript, frameworks/librerías, automatización de despliegue, etc.
 
 ## 🚀 Cómo ejecutar / ver el portfolio  
 1. Clona este repositorio:  
