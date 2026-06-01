@@ -2,7 +2,7 @@
 Bienvenido al repositorio de mi portfolio personal de desarrollo web.
 
 ## 🎯 Acerca de  
-Este proyecto recoge una selección de mis trabajos y experimentos como desarrolladora web. Mi objetivo es mostrar mis habilidades en HTML, CSS (y en el futuro JavaScript y frameworks) a través de proyectos reales que reflejan tanto mi visión técnica como artística.  
+Este proyecto recoge una selección de mis trabajos y experimentos como desarrolladora web. Mi objetivo es mostrar mis habilidades en HTML, CSS a través de proyectos reales que reflejan tanto mi visión técnica como artística.  
 Mi nombre es **Paz Cerpa**, y este portfolio me representa tanto profesional como creativamente.
 
 ## ✅ Contenido del repositorio  
